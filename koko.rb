@@ -1,0 +1,1 @@
+p "Odpalam koko.rb"
